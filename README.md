@@ -2,6 +2,6 @@
 
 ```
 $ git clone git@github.com:gaspar1986/caculator.git
-$ cd starter && npm install
+$ cd caculator && npm install
 $ npm start
 ```
